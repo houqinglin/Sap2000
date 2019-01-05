@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1BB43290-7D2D-49B8-8CDC-578A8B2C0BEF}</ProjectGuid>
+    <ProjectGuid>{A2D24DAB-E262-46AE-8F25-B13A4E41F5D7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Sap2000.ExampleCode</RootNamespace>
-    <AssemblyName>Sap2000.ExampleCode</AssemblyName>
+    <RootNamespace>Sap2000.Demo</RootNamespace>
+    <AssemblyName>Sap2000.Demo</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,9 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="SAP2000v20">
-      <HintPath>D:\Program Files\Computers and Structures\SAP2000 20\SAP2000v20.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

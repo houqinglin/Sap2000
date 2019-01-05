@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sap2000.ExampleCode", "Sap2000.ExampleCode\Sap2000.ExampleCode.csproj", "{1BB43290-7D2D-49B8-8CDC-578A8B2C0BEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sap2000.Demo", "Sap2000.Demo\Sap2000.Demo.csproj", "{A2D24DAB-E262-46AE-8F25-B13A4E41F5D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1BB43290-7D2D-49B8-8CDC-578A8B2C0BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BB43290-7D2D-49B8-8CDC-578A8B2C0BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BB43290-7D2D-49B8-8CDC-578A8B2C0BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2D24DAB-E262-46AE-8F25-B13A4E41F5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D24DAB-E262-46AE-8F25-B13A4E41F5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D24DAB-E262-46AE-8F25-B13A4E41F5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D24DAB-E262-46AE-8F25-B13A4E41F5D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
