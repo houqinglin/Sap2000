@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sap2000.ExampleCode", "Sap2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sap2000.Demo", "Sap2000.Demo\Sap2000.Demo.csproj", "{A2D24DAB-E262-46AE-8F25-B13A4E41F5D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sap2000.PluginTemplate", "Sap2000.PluginTemplate\Sap2000.PluginTemplate.csproj", "{A2988855-DEE5-42BC-87B0-2B0FDCB278A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A2D24DAB-E262-46AE-8F25-B13A4E41F5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2D24DAB-E262-46AE-8F25-B13A4E41F5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2D24DAB-E262-46AE-8F25-B13A4E41F5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2988855-DEE5-42BC-87B0-2B0FDCB278A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2988855-DEE5-42BC-87B0-2B0FDCB278A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2988855-DEE5-42BC-87B0-2B0FDCB278A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2988855-DEE5-42BC-87B0-2B0FDCB278A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
